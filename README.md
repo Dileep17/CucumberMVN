@@ -32,6 +32,7 @@ PENDING
 1. TAGS - Done 
     `mvn test -Dcucumber.options='--tags "@simple"'`
     Above runs only features & scenarios that are tagged as @simple
-2. Project related info for reports
+2. Project related info for reports - Done
+    project name is added to cucumber-reporting.properties
 3. Gradle file with parallel execution
     
